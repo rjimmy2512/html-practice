@@ -52,6 +52,7 @@ main{
 }
 
 #Hero{
+    padding: 0%;
     width: 100%;
     height: 300px;
     width: 100px;

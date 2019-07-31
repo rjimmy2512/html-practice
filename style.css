@@ -61,7 +61,7 @@ main li{
 
 }
 
-main li :last-child{
+main li last-child{
     margin-right: 0;
 }
 

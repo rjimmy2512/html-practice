@@ -68,11 +68,15 @@ main li:last-child{
     margin-right: 0;
 }
 
-footer{
+footer area{
     background-color: rgb(156, 63, 63);
     height: 100px;
 
 }
+
+
+
+
 
 
 

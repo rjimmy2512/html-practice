@@ -52,6 +52,10 @@ main{
 
 #Hero{
     width: 100%;
+    border-radius: 50px;
+    border: 3px dotted black;
+    height: 300px;
+    width: 100px;
 }
 
 main li{
@@ -67,7 +71,7 @@ main li:last-child{
 
 footer{
     height: 100px;
-    background: rgb(0, 0, 0);
+    background: rgb(red, green, rgb(49, 143, 167));
 }
 
 

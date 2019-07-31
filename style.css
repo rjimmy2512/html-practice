@@ -70,17 +70,8 @@ main li:last-child{
 
 footer{
     height: 100px;
-    background: rgb(49, 143, 167);
+    background: black;
 }
-
-footer a{
-    float:left;
-    margin-left: 20px;
-    margin-right: 50px;
-    color: whitesmoke;
-   
-}
-
 
 
 

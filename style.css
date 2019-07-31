@@ -32,3 +32,50 @@ display: inline-block;
 margin-right: 50px;
 margin-left: 30px;
 }
+
+nav li a{
+    color:white;
+    font-size: 20px;
+}
+
+nav li a:hover{
+    color: blue;
+
+}
+
+main{
+    width: 960px;
+    min-height: 700px;
+    margin: 30px auto;
+
+}
+
+#Hero{
+    width: 100%;
+}
+
+main li{
+    float: left;
+    margin: 30px;
+    margin-top: 30px;
+
+}
+
+main li :last-child{
+    margin-right: 0;
+}
+
+footer{
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+

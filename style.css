@@ -69,15 +69,9 @@ main li:last-child{
 }
 
 footer{
-    background-color: rgb(140, 199, 172);
+    background-color: rgb(156, 63, 63)
     height: 100px;
 
-}
-
-footer a{
-    color:gray;
-    text-shadow: 2px black;
-    font-size: 60px;
 }
 
 

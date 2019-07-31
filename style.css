@@ -71,12 +71,10 @@ main li:last-child{
 footer area{
     background-color: rgb(156, 63, 63);
     height: 100px;
-    float:left;
-    margin-left: 20px;
-    margin-right: 50px;
-    color: whitesmoke;
-    text-shadow: 1px 1px 1px 1px black
+
 }
+
+
 
 
 

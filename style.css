@@ -24,7 +24,7 @@ h1{
     margin-left: 20px;
     margin-right: 50px;
     color: whitesmoke;
-    text-shadow: 1px 1px 1px 1px rebeccapurple
+    text-shadow: 1px 1px 1px 1px black
 }
 
 nav li{
@@ -61,7 +61,7 @@ main li{
 
 }
 
-main li: last-child{
+main li:last-child{
     margin-right: 0;
 }
 

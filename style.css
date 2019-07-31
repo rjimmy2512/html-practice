@@ -15,5 +15,20 @@ li{
 
 header{
     background-color: rgb(156, 63, 63);
+    height: 100px;
 
+}
+
+h1{
+    float:left;
+    margin-left: 20px;
+    margin-right: 50px;
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px 1px rebeccapurple
+}
+
+nav li{
+display: inline-block;
+margin-right: 50px;
+margin-left: 30px;
 }

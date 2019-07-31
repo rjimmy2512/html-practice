@@ -61,13 +61,15 @@ main li{
 
 }
 
-main li last-child{
+main li: last-child{
     margin-right: 0;
 }
 
 footer{
-    color: #000;
+    height: 100px;
+    background: rgb(0, 0, 0);
 }
+
 
 
 

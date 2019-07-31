@@ -73,6 +73,14 @@ footer{
     background: rgb(red, green, rgb(49, 143, 167));
 }
 
+footer a{
+    float:left;
+    margin-left: 20px;
+    margin-right: 50px;
+    color: whitesmoke;
+   
+}
+
 
 
 

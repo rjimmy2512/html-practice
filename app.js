@@ -1,3 +1,9 @@
+if (window.confirm("Welcome to Our Website. Do you want to know more about God?")) { 
+    window.open("exit.html", "Thanks for Visiting!");
+
+}
+
+
 var el_up = document.getElementById("GFG_UP"); 
 var el_down = document.getElementById("GFG_DOWN"); 
 var str = "Click on button to change the background color"; 
@@ -14,6 +20,3 @@ function gfg_Run() {
 }        
 
 
-if (window.confirm("Welcome to Our Website. Do you want to know more about God?")) { 
-    window.open("exit.html", "Thanks for Visiting!");
-  }

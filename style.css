@@ -59,6 +59,7 @@ main{
 
 main li{
     float: left;
+    width: 150px;
     margin-right: 30px;
     margin-top: 30px;
 
@@ -66,6 +67,8 @@ main li{
 
 main li:last-child{
     margin-right: 0;
+    width: 150px;
+    
 }
 
 footer{

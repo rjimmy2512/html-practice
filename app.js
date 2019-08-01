@@ -1,21 +1,12 @@
-var hourNow = prompt('Want To Know More About God?');
-var greeting;
-
-if (hourNow == 'Yes') {
-    greeting = 'Hope You Will Learn More About God.';
-} else if (hourNow == 'No') {
-    greeting = 'Sorry To See You Gone Without Knowing More About God!';
-} else {
-    greeting = 'Hello.'
+var retVal = confirm('Welcome to Our Website. Do You Want To Continue?')
+if( retVal == true) {
+    document.write ('Thank You. Hope You Will Learn More About Knowing God!');
+    return true;
 }
-
-alert(greeting + 'Welcome to Our Website!');
-
-// this will update the HTML
-document.write('<h2>' + greeting + '</h2>');
-
-
-
+else {
+    document.write ('Sorry To See You Go!');
+    return false;
+}
 
 var el_up = document.getElementById("GFG_UP"); 
 var el_down = document.getElementById("GFG_DOWN"); 

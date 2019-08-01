@@ -51,7 +51,7 @@ nav li a:hover {
 button {
     float:right;
     margin-right: 20px;
-    margin-top: 30px;
+    margin-top: 25px;
     margin-left: auto;
       
 }
@@ -74,11 +74,13 @@ main li {
     float: left;
     margin-right: 20px auto;
     margin-top: 30px auto;
+    padding: 0;
     
 }
 
 main li:last-child {
     margin-right: 0;
+    padding: 0;
         
 }
 

@@ -1,17 +1,13 @@
-var hourNow = prompt('what is the current hour?');
+var hourNow = prompt('Do you want to know God?');
 var greeting;
 
-if (hourNow > 18) {
-    greeting = 'good evening';
-} else if (hourNow > 12) {
-    greeting = 'good afternoon';
-} else if (hourNow > 0) {
-    greeting = 'good morning';
-} else {
-    greeting = 'welcome to class'
-}
+if (hourNow = 'Yes') {
+    greeting = 'Welcome to Our Website';
+} if (hourNow = 'No') {
+    greeting = 'Welcome. Maybe it is your time to know God!';
+} 
 
-alert(greeting + ' brian');
+alert(greeting + ' Please go ahead and know more.');
 
 // this will update the HTML
 document.write('<h2>' + greeting + '</h2>');

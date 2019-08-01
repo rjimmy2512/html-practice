@@ -36,7 +36,7 @@ margin-top: 20px;
 
 nav li a{
     color:white;
-    font-size: 20px;
+    font-size: 10px;
 }
 
 nav li a:hover{
@@ -59,9 +59,6 @@ main{
 
 main li{
     float: left;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
     width: 150px;
     margin-right: 30px;
     margin-top: 30px;

@@ -1,4 +1,4 @@
-var hourNow = prompt('what is the current hour?');
+var hourNow = prompt('Want To Know More About God?');
 var greeting;
 
 if (hourNow > 18) {
@@ -11,7 +11,7 @@ if (hourNow > 18) {
     greeting = 'welcome to class'
 }
 
-alert(greeting + ' brian');
+alert(greeting + ' Welcome to Our Website');
 
 // this will update the HTML
 document.write('<h2>' + greeting + '</h2>');

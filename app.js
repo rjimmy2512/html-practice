@@ -1,14 +1,12 @@
 var hourNow = prompt('Want To Know More About God?');
 var greeting;
 
-if (hourNow > 18) {
-    greeting = 'Good Evening. Hope You Will Learn More About God.';
-} else if (hourNow > 12) {
-    greeting = 'Good Afternoon. Perfect Time For Learning More About God';
-} else if (hourNow > 0) {
-    greeting = 'Welcome to Our Website. Commited to Preach The Love Of God';
+if (hourNow == 'Yes') {
+    greeting = 'Hope You Will Learn More About God.';
+} else if (hourNow == 'No') {
+    greeting = 'Sorry To See You Gone Without Knowing More About God!';
 } else {
-    greeting = 'Hello.!'
+    greeting = 'Hello!'
 }
 
 alert(greeting + 'Welcome to Our Website');

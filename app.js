@@ -1,5 +1,5 @@
 function getConfirmation() {
-   var retVal = confirm('Welcome to Our Website. Do You Want To Continue?')
+   var retVal = confirm('Welcome to Our Website. Do You Want To Continue?');
      if( retVal == true) {
         document.write ('Thank You. Hope You Will Learn More About Knowing God!');
         return true;

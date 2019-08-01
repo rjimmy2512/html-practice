@@ -55,12 +55,13 @@ main {
     width: 960px;
     height: 450px;
    margin: 30px auto;
-   
+
 }
 
 main li {
     float: left;
     width: 150px;
+    height: 100px;
     margin-right: 30px;
     margin-left: 30px;
     margin-top: 20px;

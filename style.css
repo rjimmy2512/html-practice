@@ -66,26 +66,22 @@ main {
 #Hero {
     width: 960px;
     height: 450px;
-   margin: 30px auto;
+    margin: 30px auto;
 
 }
 
 main li {
     float: left;
-    margin-right: 20px auto;
-    margin-top: 30px auto;
-    padding: 0;
+    margin-right: 30px;
+    margin-top: 30px;
     
-}
-
-main li:last-child {
-    margin-right: 0;
-    padding: 0;
-        
+    
 }
 
 footer {
     background-color: black;
+    text-anchor: white;
+    margin-inline: auto;
     height: 100px;
     
 }

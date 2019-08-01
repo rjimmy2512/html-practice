@@ -1,9 +1,9 @@
-var hourNow = prompt('Do you want to know God?');
+var hourNow = prompt('Do you want to know God? Yes/No');
 var greeting;
 
 if (hourNow = 'Yes') {
     greeting = 'Welcome to Our Website';
-} if (hourNow = 'No') {
+} else if (hourNow = 'No') {
     greeting = 'Welcome. Maybe it is your time to know God!';
 } 
 

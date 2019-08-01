@@ -3,6 +3,8 @@ if (window.confirm("Welcome to Our Website. Do you want to know more about God?"
 
 }
 
+
+
 var el_up = document.getElementById("GFG_UP"); 
 var el_down = document.getElementById("GFG_DOWN"); 
 var str = "Click on button to change the background color"; 

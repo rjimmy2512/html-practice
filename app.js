@@ -6,10 +6,10 @@ if (hourNow == 'Yes') {
 } else if (hourNow == 'No') {
     greeting = 'Sorry To See You Gone Without Knowing More About God!';
 } else {
-    greeting = 'Hello!'
+    greeting = 'Hello.'
 }
 
-alert(greeting + 'Welcome to Our Website');
+alert(greeting + 'Welcome to Our Website!');
 
 // this will update the HTML
 document.write('<h2>' + greeting + '</h2>');

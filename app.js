@@ -5,13 +5,9 @@ if (greeting = 'Yes') {
     answer = 'Great. You are on the right place. Please go ahead';
 } else if (greeting = 'No') {
     answer = 'It is fine. Nice to meet you. Did you know that God is always good? Please go ahed to know more about Him.';
-} else if (hourNow > 0) {
-    greeting = 'good morning';
 } else {
     salutation = 'Welcome to Our Website'
 }
-
-
 
 // this will update the HTML
 document.write('<h2>' + salutation + '</h2>');

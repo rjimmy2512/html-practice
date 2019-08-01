@@ -2,16 +2,16 @@ var hourNow = prompt('Want To Know More About God?');
 var greeting;
 
 if (hourNow > 18) {
-    greeting = 'good evening';
+    greeting = 'Good Evening. Hope You Will Learn More About God.';
 } else if (hourNow > 12) {
-    greeting = 'good afternoon';
+    greeting = 'Good Afternoon. Perfect Time For Learning More About God';
 } else if (hourNow > 0) {
-    greeting = 'good morning';
+    greeting = 'Welcome to Our Website. Commited to Preach The Love Of God';
 } else {
-    greeting = 'welcome to class'
+    greeting = 'Welcome to Our Website!'
 }
 
-alert(greeting + ' Welcome to Our Website');
+alert(greeting + 'Welcome to Our Website');
 
 // this will update the HTML
 document.write('<h2>' + greeting + '</h2>');

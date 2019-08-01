@@ -14,7 +14,7 @@ li {
 }
 
 header {
-    background-color: rgb(156, 63, 63);
+    background-color: black;
     height: 100px;
 
 }
@@ -71,7 +71,7 @@ main li:last-child {
 }
 
 footer {
-    background-color: rgb(156, 63, 63);
+    background-color: black;
     text color: rgb ;
     height: 100px;
     margin-left: center;

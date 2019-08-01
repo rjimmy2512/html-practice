@@ -45,6 +45,15 @@ nav li a {
 nav li a:hover {
     color: blue;
 
+
+}
+
+button {
+    float:right;
+    margin-right: 20px;
+    margin-top: 40px;
+    margin-left: auto;
+      
 }
 
 main {

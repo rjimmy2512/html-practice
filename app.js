@@ -8,7 +8,7 @@ if (hourNow > 18) {
 } else if (hourNow > 0) {
     greeting = 'Welcome to Our Website. Commited to Preach The Love Of God';
 } else {
-    greeting = 'Welcome to Our Website!'
+    greeting = 'Hello.!'
 }
 
 alert(greeting + 'Welcome to Our Website');

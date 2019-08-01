@@ -13,6 +13,7 @@ function gfg_Run() {
     el_down.innerHTML = "Background Color changed"; 
 }        
 
+
 var hourNow = prompt('what is the current hour?');
 var greeting;
 

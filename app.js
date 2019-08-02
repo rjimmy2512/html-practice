@@ -1,15 +1,6 @@
-function getConfirmation() {
-   var retVal = confirm('Welcome to Our Website. Do You Want To Continue?');
-     if( retVal == true) {
-        document.write ('Thank You. Hope You Will Learn More About Knowing God!');
-        return true;
-     }
-     else {
-         document.write ('Sorry To See You Go!');
-         return false;
-     }
-
-}
+if (window.confirm("Looking For Knowing More About God?")) { 
+    window.open("exit.html", "Thanks for Visiting!");
+  }
 
 
 var el_up = document.getElementById("GFG_UP"); 

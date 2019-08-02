@@ -1,5 +1,5 @@
 if (window.confirm("Looking For Knowing More About God?")) { 
-    window.open("exit.html", "Thanks for Visiting!");
+   window.open("exit.html", "Thanks for Visiting!");
 }
 
 
